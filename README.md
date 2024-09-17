@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lehana Lebopo
 - 👀 I’m interested in learning blockchain
 - 🌱 I’m currently learning Next js
-- 💞️ I’m looking to collaborate on bulding complex projects
+- 💞️ I’m eager to collaborate on complex projects that push the boundaries of technology.
 - 📫 How to reach me lehanalebopo@gmail.com
 - ⚡ Fun fact:I enjoy watching educational documentaries.
 
